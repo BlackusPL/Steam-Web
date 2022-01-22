@@ -20,3 +20,8 @@ Now Steam has a lot of features but I want to finish this project to abandon it
 - Click on 3 dots on Right-Top
 - More tools
 - Create shortcut and mark 'Open in new tab'
+
+## How to Install on Edge
+- Click on 3 dots on Right-Top
+- Click Apps
+- Install this website as App
