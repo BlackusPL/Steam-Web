@@ -1,5 +1,6 @@
 ## *Very Important*!
-**Project will be abandon soon(maybe after 2 months, max 1 year)**
+~~Project will be abandon soon(maybe after 2 months, max 1 year)~~
+<br>**Project has been abandon**</br>
 ## Why i make it
 
 When I created this application, Steam didn't have a lot of functionality on the phone
